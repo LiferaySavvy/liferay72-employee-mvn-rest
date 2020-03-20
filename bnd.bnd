@@ -1,0 +1,5 @@
+Bundle-Name: liferay72-employee-mvn-rest
+Bundle-SymbolicName: liferay72.employee.mvn.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
+-metatype: *
