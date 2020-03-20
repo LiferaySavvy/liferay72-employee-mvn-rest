@@ -5,6 +5,9 @@
 locate to project or import into your IDE run following maven goals.  
 Update Liferay Home path in pom.xml file.
 * `mvn clean install`
-* `mvn bundle-support:deploy`
+* `mvn bundle-support:deploy`  
+## OR
+* `mvnw clean install`
+* `mvnw bundle-support:deploy`  
 ## Documentation 
 <TBD>
