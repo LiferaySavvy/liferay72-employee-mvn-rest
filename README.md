@@ -1,7 +1,7 @@
 # liferay72-employee-mvn-rest
 # Liferay Portal : Liferay 7.2 CE ++ | Liferay 7.2 DXP EE ++
 ## Installation
-* Clone project
+* Clone project  
 `git clone https://github.com/LiferaySavvy/liferay72-employee-mvn-rest.git` 
 * Direct download link   
 https://github.com/LiferaySavvy/liferay72-employee-rest/archive/master.zip  
