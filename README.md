@@ -5,8 +5,8 @@
 `git clone https://github.com/LiferaySavvy/liferay72-employee-mvn-rest.git` 
 * Direct download link   
 https://github.com/LiferaySavvy/liferay72-employee-rest/archive/master.zip  
-locate to project or import into your IDE run following maven goals.  
-Update Liferay Home path in pom.xml file.
+* locate to project or import into your IDE run following maven goals.  
+* Update Liferay Home path in pom.xml file.
 * `mvn clean install`
 * `mvn bundle-support:deploy`  
 ## OR
