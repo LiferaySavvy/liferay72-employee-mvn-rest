@@ -17,5 +17,5 @@ mvnw clean install
 mvnw bundle-support:deploy
 ````
 ## Documentation 
-* http://www.liferaysavvy.com/2020/03/liferay-7dxp-jax-rs-rest-services.html
-* http://www.liferaysavvy.com/2020/03/liferay-jax-rs-osgi-rest-module.html 
+* [http://www.liferaysavvy.com/2020/03/liferay-7dxp-jax-rs-rest-services.html](http://www.liferaysavvy.com/2020/03/liferay-7dxp-jax-rs-rest-services.html)  
+* [Liferay JAX-RS OSGi Rest Module Development](http://www.liferaysavvy.com/2020/03/liferay-jax-rs-osgi-rest-module.html)  
